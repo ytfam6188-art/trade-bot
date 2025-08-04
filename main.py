@@ -1,0 +1,2 @@
+print("✅ Bot started!")
+
